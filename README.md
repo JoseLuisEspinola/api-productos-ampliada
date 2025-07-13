@@ -1,10 +1,10 @@
-# 🧠 API Productos + Usuarios — Proyecto Node.js con Firestore
+# API Productos + Usuarios — Proyecto Node.js con Firestore
 
 Esta API permite gestionar productos y usuarios usando Firestore como base de datos. Incluye operaciones completas (CRUD), validaciones detalladas, respuestas claras, y control de errores para cada ruta.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Node.js + Express  
 - Firebase Admin SDK (Firestore)  
@@ -14,7 +14,7 @@ Esta API permite gestionar productos y usuarios usando Firestore como base de da
 
 ---
 
-## 📦 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 /api-productos-ampliada
@@ -34,7 +34,7 @@ Esta API permite gestionar productos y usuarios usando Firestore como base de da
 ---
 
 
-## 📮 Endpoints disponibles
+## Endpoints disponibles
 
 | Entidad   | Método | Ruta                             | Descripción                             |
 |-----------|--------|----------------------------------|-----------------------------------------|
@@ -43,10 +43,8 @@ Esta API permite gestionar productos y usuarios usando Firestore como base de da
 | Productos | POST   | `/api/products/create`           | Crear nuevo producto                    |
 | Productos | PUT    | `/api/products/:id`              | Modificar producto por ID               |
 | Productos | DELETE | `/api/products/:id`              | Eliminar producto por ID                |
-
 | Auth      | POST   | `/api/login`                     | Autenticación de usuario                |
 | Productos | POST   | `/api/products/create-protegido` | Crear producto con validación de acceso |
-
 | Usuarios  | GET    | `/api/usuarios`                  | Listar todos los usuarios               |
 | Usuarios  | GET    | `/api/usuarios/:id`              | Obtener usuario por ID                  |
 | Usuarios  | POST   | `/api/usuarios`                  | Crear nuevo usuario                     |
@@ -138,6 +136,9 @@ La API está preparada para:
 - Devolver mensajes adaptados tanto a desarrolladores como testers (esto si que fui crítico de mi codigo)
 
 ---
+
+🙋🏻‍♀️Tutora: Triana Menendez- triana.menendez@bue.edu.ar
+🙋🏻‍♂️Instructor: Daniel Riverol - d.riverol@bue.edu.ar
 
 ## AUTOR
 
