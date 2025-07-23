@@ -203,4 +203,3 @@ JWT_SECRET=clave-super-secreta-para-generar-token
 Backend con Node.js + Firebase  
 Proyecto académico con prácticas profesionales y foco en calidad técnica
 
-✨ ¡Espero APROBAR! ✨
