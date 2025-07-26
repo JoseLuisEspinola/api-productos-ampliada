@@ -1,8 +1,8 @@
 {
-  "name": "api-productos",
+  "name": "api-productos-ampliada",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
